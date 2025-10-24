@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+   <epp:phrase id="Plugin/Screen/EPrint/DarkMove:action:move_dark:title">Move to dark archive</epp:phrase>
+   <epp:phrase id="Plugin/Screen/EPrint/DarkMove:action:move_dark:description">Move item to dark archive.</epp:phrase>
+   <epp:phrase id="Plugin/Screen/EPrint/DarkMove:action:move_buffer:title">Move to review</epp:phrase>
+   <epp:phrase id="Plugin/Screen/EPrint/DarkMove:status_changed">Status of item changed to "<epc:pin name="status"/>".</epp:phrase>
+
+   <epp:phrase id="cgi/users/edit_eprint:staff_item_is_in_dark">This item is in the dark archive.</epp:phrase>
+   <epp:phrase id="cgi/users/edit_eprint:item_is_in_dark">This item is in the dark archive.</epp:phrase>
+   <epp:phrase id="eprint_fieldopt_eprint_status_dark">Dark Archive</epp:phrase>
+
+   <epp:phrase id="history_fieldopt_action_move_buffer_to_dark">Moved from review to dark archive</epp:phrase>
+   <epp:phrase id="history_fieldopt_action_move_dark_to_buffer">Moved from dark archive to review</epp:phrase>
+
+</epp:phrases>
